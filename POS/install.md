@@ -5,7 +5,7 @@
 - Do flash global fw for better reliablity, regional fw is fine as well
 
 ### Steps
-- Download boot and vendor_boot images
+- Download [boot](https://t.me/QuickDump/12) and [vendor_boot](https://t.me/QuickDump/13) images
 - Reboot to fastboot mode (Vol Down + Power)
 - Flash boot and vendor_boot: `fastboot flash boot boot.img` and `fastboot flash vendor_boot vendor_boot.img`
 - Reboot to recovery: `fastboot reboot recovery`
