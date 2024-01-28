@@ -11,7 +11,7 @@ Settings -> System -> Developer Options -> Smallest Width
 - [steps](https://t.me/quickportal/1948)
 
 ### Enabling Auto HBM
-I Recommend to enable it, to have nice experience in direct sunlight.
+I Recommend to enable it, to have nice experience in direct sunlight.  
 Settings -> Display -> High Brightness Mode -> Auto HBM
 
 
