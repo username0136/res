@@ -8,7 +8,7 @@ Settings -> System -> Developer Options -> Smallest Width
 
 ### Enabling circle to search
 - [preview](https://t.me/PocoF4Discussion/626283)
-- [steps](https://t.me/quickportal/1948)
+- wait for a while, try uninstalling, reinstalling google app updates, if still doesn't work follow these [steps](https://t.me/quickportal/1948)
 
 ### Enabling Auto HBM
 I Recommend to enable it, to have nice experience in direct sunlight.  
