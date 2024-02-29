@@ -3,6 +3,8 @@
 ### Notes
 - OFOX A14 by Pranav is supported
 - Do flash global fw for better reliablity, regional fw is fine as well
+- Firmware: [Recommended](https://xiaomifirmwareupdater.com/firmware/munch/stable/V14.0.6.0.TLMMIXM/) | [Experimental](https://t.me/QuickDump/23) with "mi" boot logo
+- [Debloater](https://t.me/QuickDump/24): use at own risk, and only when you know what you are doing!
 
 ### Steps
 - Download [boot](https://t.me/QuickDump/12) and [vendor_boot](https://t.me/QuickDump/13) images
