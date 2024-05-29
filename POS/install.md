@@ -1,12 +1,11 @@
 ## Installation
 
 ### Notes
-- OFOX A14 by Pranav is supported
-- Do flash global fw for better reliablity, regional fw is fine as well
-- [Recommended Firmware](https://xiaomifirmwareupdater.com/firmware/munch/stable/V14.0.6.0.TLMMIXM/)
+- TWRP SKKK works, but not recommended, utilize it at your own risk.
+- Firmware is included with the rom.
 
 ### Steps
-- Download [boot](https://t.me/QuickDump/45) and [vendor_boot](https://t.me/QuickDump/47) images
+- Download [boot](https://t.me/QuickDump/49) and [vendor_boot](https://t.me/QuickDump/51) images
 - Reboot to fastboot mode (Vol Down + Power)
 - Flash boot and vendor_boot: `fastboot flash boot boot.img` and `fastboot flash vendor_boot vendor_boot.img`
 - Reboot to recovery: `fastboot reboot recovery`
