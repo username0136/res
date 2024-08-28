@@ -1,21 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "lineage-21.0-20240817-quick-munch.zip",
-    "datetime": 1723853697,
-    "size": 2555160664,
-    "url": "https://littlechest365-my.sharepoint.com/personal/quick_skinow_skin/_layouts/15/download.aspx?share=ES5Hln7fejxOjG03Z9FMXPIB7JtAvR1ddXTsxdAatZXlBQ",
-    "github_releases_url": "https://littlechest365-my.sharepoint.com/personal/quick_skinow_skin/_layouts/15/download.aspx?share=ES5Hln7fejxOjG03Z9FMXPIB7JtAvR1ddXTsxdAatZXlBQ",
-    "filehash": "2e7f4f97fc4e56d0e89f04af65eb8d43",
-    "id": "2e7f4f97fc4e56d0e89f04af65eb8d43",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "username0136",
-            "name": "Quick ⚡"
-        }
-    ],
+    "filename": "lineage-21.0-20240913-quick-munch.zip",
+    "datetime": 1726222024,
+    "size": 2554440654,
+    "url": "https://littlechest365-my.sharepoint.com/personal/quick_skinow_skin/_layouts/15/download.aspx?share=EZgC1pfJaK9CgKsN_wo84eIBMPeSmSe86yiP1HK2l4I91A",
+    "github_releases_url": "https://littlechest365-my.sharepoint.com/personal/quick_skinow_skin/_layouts/15/download.aspx?share=EZgC1pfJaK9CgKsN_wo84eIBMPeSmSe86yiP1HK2l4I91A",
+    "filehash": "108f242e16045da5512bca7a5d4fbf0f",
+    "id": "108f242e16045da5512bca7a5d4fbf0f",
     "news_url": "https://t.me/PixelOS_munch",
-    "donate_url": null,
+    "donate_url": "https://github.com/sponsors/username0136",
     "xda": null
 }
