@@ -10,6 +10,5 @@
 - Flash boot and vendor_boot: `fastboot flash boot boot.img` and `fastboot flash vendor_boot vendor_boot.img`
 - Reboot to recovery: `fastboot reboot recovery`
 - Go to ADB Sideload and flash rom `adb sideload rom-file.zip`
-- Reboot Recovery and Format Data
-- [**Optional**] Flash additional resources if you want (eg. Different Kernel)
-- Reboot System :)
+- Tap yes to reboot recovery and then format data
+- Reboot system :)
